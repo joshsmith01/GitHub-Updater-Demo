@@ -4,10 +4,10 @@
 Plugin Name: EOM SWP Github Updater
 Plugin URI: https://github.com/joshsmith01/GitHub-Updater-Demo
 Description: Create a throw away plugin that can be used to demonstrate the installation and update process to
-Version: 0.1.2
+Version: 0.1.3
 Author: Josh Smith
 Author URI: http://www.efficiencyofmovement.com
-License: A "Slug" license name e.g. GPL2
+
 GitHub Branch: master
 GitHub Plugin URI: https://github.com/joshsmith01/GitHub-Updater-Demo
 */

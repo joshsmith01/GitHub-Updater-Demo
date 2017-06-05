@@ -8,7 +8,7 @@ Version: 0.1.3
 Author: Josh Smith
 Author URI: http://www.efficiencyofmovement.com
 
-GitHub Branch: master
+GitHub Branch: green-branch
 GitHub Plugin URI: https://github.com/joshsmith01/GitHub-Updater-Demo
 */
 

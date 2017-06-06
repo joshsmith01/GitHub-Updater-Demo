@@ -5,3 +5,5 @@
 * Change to orange
 #### Version 0.1.8
 * Change to purple
+#### Version 0.1.10
+* Bump the version

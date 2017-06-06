@@ -7,3 +7,5 @@
 * Change to purple
 #### Version 0.1.10
 * Bump the version
+#### Version 0.1.11
+* Bump the version

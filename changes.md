@@ -9,3 +9,5 @@
 * Bump the version
 #### Version 0.1.11
 * Bump the version
+#### Version 0.1.13
+* Update the color
